@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Milthon
 
-<!--
-**MilthonB/MilthonB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Sobre Mí
+Soy un desarrollador de software con experiencia en [tus habilidades principales]. Me apasiona [tus intereses].
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
+- **Lenguajes**: Python, Dart, Java, JavaScript
+- **Frameworks**: Flutter, Angular, Node
+- **Herramientas**: Git, Docker, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+- [Nombre del Proyecto 1](enlace-del-proyecto): Breve descripción.
+- [Nombre del Proyecto 2](enlace-del-proyecto): Breve descripción.
+
+## 📫 Conéctame
+- [LinkedIn](tu-linkedin)
+- [Twitter](tu-twitter)
+- [Email](mailto:tu.email@ejemplo.com)
+
+## 🌱 Siempre Aprendiendo
+Actualmente, estoy aprendiendo sobre [tecnologías o conceptos que estés explorando].
+
+---
