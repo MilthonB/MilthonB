@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Milthon
 
 ## 🌟 Sobre Mí
-Soy un desarrollador de software con experiencia en [tus habilidades principales]. Me apasiona [tus intereses].
+Soy un desarrollador de software con experiencia en:
 
 ## 💻 Tecnologías
 - **Lenguajes**: Python, Dart, Java, JavaScript
