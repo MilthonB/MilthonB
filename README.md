@@ -9,7 +9,7 @@ Soy un desarrollador de software con experiencia en:
 - **Herramientas**: Git, Docker, SQL
 
 ## 🚀 Proyectos Destacados
-- [Nombre del Proyecto 1](enlace-del-proyecto): Breve descripción.
+- [Nombre del Proyecto 1](): Breve descripción.
 - [Nombre del Proyecto 2](enlace-del-proyecto): Breve descripción.
 
 ## 📫 Conéctame
