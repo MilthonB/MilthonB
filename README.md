@@ -4,7 +4,7 @@
 Soy un desarrollador de software con experiencia en:
 
 ## 💻 Tecnologías
-- **Lenguajes**: Python, Dart, Java, JavaScript
+- **Lenguajes**: Python, Dart, Java, JavaScript, Typescript
 - **Frameworks**: Flutter, Angular, Node
 - **Herramientas**: Git, Docker, SQL
 
