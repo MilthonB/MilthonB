@@ -1,40 +1,8 @@
-# 👋 Hola, soy Milthon
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Soy **Full-Stack Software Developer** con experiencia construyendo  
-**aplicaciones móviles y sistemas backend productivos**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Trabajo principalmente con **Flutter** para mobile y **Python / Node.js** para backend, 
-enfocado en escribir código **mantenible, escalable y bien estructurado**.
-
-Me interesa todo lo relacionado con **arquitectura de software**, APIs, 
-automatización de procesos y el ciclo completo de desarrollo.
-
----
-
-## 🧩 Stack Principal
-
-- **Mobile:** Flutter, Dart, Riverpod / BLoC
-- **Backend:** Python, FastAPI, Node.js, Express
-- **Databases:** PostgreSQL, SQL Server, MongoDB
-- **Cloud / BaaS:** Supabase, Firebase
-- **Practices:** Clean Architecture, SOLID
-- **Tools:** Git, Docker (básico), Postman
-
----
-
-## 📌 Sobre este GitHub
-
-Aquí encontrarás:
-- Proyectos personales y profesionales
-- Experimentos técnicos
-- Pruebas de conceptos
-- Código enfocado en buenas prácticas
-
-No todos los repos están “bonitos”, pero todos reflejan **aprendizaje real y trabajo práctico**.
-
----
-
-## 📫 Contacto
-
-- 📧 Email: milthonbor@gmail.com  
-- 💼 LinkedIn: *(opcional, si lo usas activamente)*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
