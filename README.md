@@ -1,24 +1,40 @@
-# 👋 ¡Hola! Soy Milthon
+# 👋 Hola, soy Milthon
 
-## 🌟 Sobre Mí
-Soy un desarrollador de software con experiencia en:
+Soy **Full-Stack Software Developer** con experiencia construyendo  
+**aplicaciones móviles y sistemas backend productivos**.
 
-## 💻 Tecnologías
-- **Lenguajes**: Python, Dart, Java, JavaScript, Typescript
-- **Frameworks**: Flutter, Angular, Node
-- **Herramientas**: Git, Docker, SQL
+Trabajo principalmente con **Flutter** para mobile y **Python / Node.js** para backend, 
+enfocado en escribir código **mantenible, escalable y bien estructurado**.
 
-<!--
-## 🚀 Proyectos Destacados
-- [Nombre del Proyecto 1](): Breve descripción.
-- [Nombre del Proyecto 2](enlace-del-proyecto): Breve descripción.
-
-## 📫 Conéctame
-- [LinkedIn](tu-linkedin)
-- [Twitter](tu-twitter)
-- [Email](mailto:tu.email@ejemplo.com)
-## 🌱 Siempre Aprendiendo
-Actualmente, estoy aprendiendo sobre [tecnologías o conceptos que estés explorando].
--->
+Me interesa todo lo relacionado con **arquitectura de software**, APIs, 
+automatización de procesos y el ciclo completo de desarrollo.
 
 ---
+
+## 🧩 Stack Principal
+
+- **Mobile:** Flutter, Dart, Riverpod / BLoC
+- **Backend:** Python, FastAPI, Node.js, Express
+- **Databases:** PostgreSQL, SQL Server, MongoDB
+- **Cloud / BaaS:** Supabase, Firebase
+- **Practices:** Clean Architecture, SOLID
+- **Tools:** Git, Docker (básico), Postman
+
+---
+
+## 📌 Sobre este GitHub
+
+Aquí encontrarás:
+- Proyectos personales y profesionales
+- Experimentos técnicos
+- Pruebas de conceptos
+- Código enfocado en buenas prácticas
+
+No todos los repos están “bonitos”, pero todos reflejan **aprendizaje real y trabajo práctico**.
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: milthonbor@gmail.com  
+- 💼 LinkedIn: *(opcional, si lo usas activamente)*
