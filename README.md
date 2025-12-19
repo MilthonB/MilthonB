@@ -27,9 +27,3 @@ Aquí encontrarás:
 - APIs, apps y automatizaciones  
 - Código orientado a producción y aprendizaje continuo
 
----
-
-## 📫 Conéctame
-
-- 📧 Email: milthonbor@gmail.com  
-- 💼 LinkedIn: *(tu perfil)*  
