@@ -1,6 +1,6 @@
 # 👋 Hola, soy Milthon
 
-**Full-Stack Software Developer** con más de **3 años de experiencia** construyendo  
+**Full-Stack Software Developer** con más de **6 años de experiencia** construyendo  
 aplicaciones móviles y sistemas backend productivos.
 
 Trabajo principalmente con **Flutter** para mobile y **Python / Node.js** para backend,  
